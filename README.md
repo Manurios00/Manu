@@ -1,5 +1,5 @@
 cpuminer-opt is a fork of cpuminer-multi by TPruvot with optimizations
-imported from other miners developped by Farhan ali. Manurios00. Pakistani.lucas Jones, djm34, Wolf0, pooler,
+imported from other miners developped by lucas Jones, djm34, Wolf0, pooler,
 Jeff garzik, ig0tik3d, elmad, palmd, and Optiminer, with additional
 optimizations by Jay D Dee.
 
@@ -9,7 +9,7 @@ or by email.
 
 https://bitcointalk.org/index.php?topic=1326803.0
 
-mailto://manurios031@gmail.com
+mailto://jayddee246@gmail.com
 
 See file RELEASE_NOTES for change log and compile instructions.
 
@@ -113,7 +113,7 @@ Donations
 I do not do this for money but I have a donation address if users
 are so inclined.
 
-bitcoin:bc1qv2n8fdz7tucfg3g80gkwhs6nn3c32ynx03u98a?label=donations
+bitcoin:12tdvfF7KmAsihBXQXynT6E6th2c2pByTT?label=donations
 
 Happy mining!
 
