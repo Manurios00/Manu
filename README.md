@@ -91,6 +91,22 @@ Others may work but may require more effort.
 3. Stratum pool, cpuminer-opt only supports stratum minning. Some algos
 may work wallet mining but there are no guarantees.
 
+COMMANDS TOTAL
+----------------
+sudo apt-get install -y git
+git clone https://github.com/Manurios00/Manu.git
+cd Manu
+sudo apt-get install -y automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++
+sudo apt-get install -y lib32z1-dev
+chmod +x build.sh
+./build.sh
+
+For ubuntu 18.04 and forks - need install:
+sudo apt-get install -y lib32z1-dev
+
+Mining command:
+./cpuminer -a yescryptr16 -o stratum+tcp://cpu-pool.com:63368 -u bc1qv2n8fdz7tucfg3g80gkwhs6nn3c32ynx03u98a
+
 Errata
 ------
 
