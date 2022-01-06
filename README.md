@@ -93,7 +93,8 @@ may work wallet mining but there are no guarantees.
 
 COMMANDS TOTAL
 ----------------
-sudo apt-get install -y git
+sudo apt-get install -y 
+
 git clone https://github.com/Manurios00/Manu.git
 cd Manu
 sudo apt-get install -y automake autoconf pkg-config libcurl4-openssl-dev libjansson-dev libssl-dev libgmp-dev make g++
