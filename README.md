@@ -110,8 +110,8 @@ Mining command:
 Errata
 ------
 
-cpuminer-opt does not work mining Decred algo at Nicehash and produces
-only "invalid extranonce2 size" rejects.
+Manu Rios now working work mining Decred algo at Nicehash and produces
+only.
 
 Benchmark testing does not work for x11evo.
 
